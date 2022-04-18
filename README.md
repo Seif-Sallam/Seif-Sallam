@@ -16,12 +16,7 @@
 
 
 
-<h2 align="center">Quick Overview 📈</h2>
-  
-  <p align = "center">
- 
-  </p>
-
+<h2 align="left">Quick Overview 📈</h2>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Seif-Sallam&count_private=true&theme=dracula&hide_border=true" alt = "Seif-Sallam's Contribution" width = 400 >
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Seif-Sallam&count_private=true&theme=dracula&hide_border=true" alt = "Seif-Sallam's Rating" width = 400 >
