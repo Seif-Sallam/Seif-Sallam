@@ -10,15 +10,17 @@
 
 
 <br />
+<br />
+<br />
+<br />
 
 
 
-
-<h2>Quick Overview 📈</h2>
+<h2 align="center">Quick Overview 📈</h2>
   
   <p align = "center">
  
-</p>
+  </p>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Seif-Sallam&count_private=true&theme=dracula&hide_border=true" alt = "Seif-Sallam's Contribution" width = 400 >
