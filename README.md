@@ -8,9 +8,13 @@
 - I worked for several semesters as a Teacher Assistant in The American University in Cairo (AUC)
 - I am currently focusing on learning about different Graphics APIs such as OpenGL as well as learning to use Game Engines such as Unity3D and Unreal Engine.
 
-  <br />
 
-<h2 align="center">Quick Overview 📈</h2>
+<br />
+
+
+
+
+<h2>Quick Overview 📈</h2>
   
   <p align = "center">
  
