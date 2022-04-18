@@ -27,7 +27,7 @@
  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=Seif-Sallam&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt = "Seif-Sallam's Languages/Frameworks" width = 400 />
 </p>
 
-<br /><br />
+<br />
 <p align = "center">
   <img src = "https://spotify-recently-played-readme.vercel.app/api?user=31reutaimeofchscqq6dypesnxpe&count=1" alt = "Seif Sallam Spotify" width = 400 /> 
 
