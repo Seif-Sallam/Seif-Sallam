@@ -3,10 +3,12 @@
 <h1> About me 📌</h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- I am Seif Yehia Sallam
-- I am enthusiastic about Game Development and Game Engine Architecture.
-- I worked for several semesters as a Teacher Assistant in The American University in Cairo (AUC)
-- I am currently focusing on learning about different Graphics APIs such as OpenGL as well as learning to use Game Engines such as Unity3D and Unreal Engine.
+- I am Seif Yehia Sallam, a Computer Science Graduate from AUC.
+- I enjoy creating games, libraries, systems, and exploring frameworks.
+- I have 2+ years of experience of software development.
+- I worked for several semesters as a Teacher Assistant in The American University in Cairo (AUC).
+- I am currently focusing on exploring several frameworks for several topics as well as improving my system design skills.
+- I love playing guitar, listening to music, reading books, learning languages, as well lifting weights in my free time :)).
 
 
 <br />
