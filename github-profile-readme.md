@@ -6,10 +6,10 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-🎓 **Computer Science Graduate** from The American University in Cairo (AUC) with a Minor in Mathematics
-💼 **Software Engineer III** at Atomica AI with 2+ years of professional experience
-🏆 **Top 10%** graduate in Computer Science major with **3.833/4.0 GPA**
-📚 Former **Teaching Assistant** at AUC for multiple CS courses
+🎓 **Computer Science Graduate** from The American University in Cairo (AUC) with a Minor in Mathematics  
+💼 **Software Engineer III** at Atomica AI with 2+ years of professional experience  
+🏆 **Top 10%** graduate in Computer Science major with **3.833/4.0 GPA**  
+📚 Former **Teaching Assistant** at AUC for multiple CS courses  
 
 I'm passionate about creating innovative software solutions, from game engines to AI-powered applications. I love exploring new frameworks, improving system design skills, and contributing to open-source projects.
 
