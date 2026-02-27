@@ -102,13 +102,13 @@
 
 ## GitHub Stats
 
-<p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Seif-Sallam&hide_border=true" alt="GitHub Streak" height="170">
 </p>
 
 
 ## Currently Listening To
 
-<p>
+<p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31reutaimeofchscqq6dypesnxpe&count=1" alt="Spotify Recently Played" width="400">
 </p>
