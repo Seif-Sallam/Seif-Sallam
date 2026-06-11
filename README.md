@@ -1,7 +1,7 @@
 # Seif Yehia Sallam
 
 <p>
-  Software Engineer (Backend) at <b>Noon</b> | OMSCS @ Georgia Tech | Ex-Atomica | Ex-AUC TA
+  Software Engineer (Backend) at <b>Noon</b> | Ex-Atomica | Ex-AUC TA
 </p>
 
 <p>
