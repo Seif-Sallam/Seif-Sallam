@@ -16,7 +16,6 @@
 
 - Backend engineer focused on scalable internal products and operational tooling.
 - Building staffing and logistics systems used across multiple countries at Noon.
-- M.S. in Computer Science candidate at Georgia Tech (OMSCS), starting Aug 2026.
 - B.Sc. in Computer Science with a Minor in Mathematics, AUC (GPA: 3.833/4.0).
 - Interests: distributed systems, platform/backend architecture, and developer productivity.
 
@@ -82,7 +81,6 @@
 
 ## Education
 
-- **Georgia Institute of Technology** - M.S. Computer Science (OMSCS), *Aug 2026 - Present*
 - **The American University in Cairo** - B.Sc. Computer Science, Minor in Mathematics, *Sep 2019 - Jan 2024*
 - **Motwfeen School for Boys** - High School (Thanawya Amma), *Sep 2016 - Jul 2019*
 
